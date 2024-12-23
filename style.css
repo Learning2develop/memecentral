@@ -1,0 +1,28 @@
+html{
+    background-color: black;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+#memeimg{
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+
+#pic1{
+    width: 100%;
+    border: 5px solid white;
+}
+
+#thehook{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#punchline{
+    color: white;
+    text-align: center;
+}
